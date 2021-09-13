@@ -1,4 +1,4 @@
-# Jibri
+# Jibri Audio Only
 
 JItsi BRoadcasting Infrastructure
 
