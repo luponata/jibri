@@ -13,7 +13,7 @@ To use this custom build you just need to replace the **jibri.jar** file inside 
 
 ```
 volumes:
-    - ./jibri/jibri.jar:/opt/jitsi/jibri/jibri.jar
+    - ./jibri/custom-jibri.jar:/opt/jitsi/jibri/jibri.jar
 ```
 
 # Need to modify the build?
