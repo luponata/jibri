@@ -1,4 +1,4 @@
-# Jibri "Audio Only"
+# Jibri "Audio Only" (Docker version instructions)
 
 JItsi BRoadcasting Infrastructure
 
