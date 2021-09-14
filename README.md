@@ -19,4 +19,4 @@ volumes:
 # Need to modify the build?
 Just clone the repo, make your changes and then from the root folder launch the command "mvn package" (after installing apache maven)
 
-You fill find the .jar file inside "$cloned-repo-dir"/target as "jibri-X.x-SNAPSHOT-jar-with-dependencies.jar"
+You fill find the .jar file inside "$CLONED-REPO-DIR"/target as **"jibri-X.x-SNAPSHOT-jar-with-dependencies.jar"**
