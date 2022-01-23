@@ -1,6 +1,6 @@
 # Jibri "Audio Only" (Docker version instructions)
 
-JItsi BRoadcasting Infrastructure
+This build is an exact copy of the original **Jibri** Java executable minus the video recording options of the embedded **ffmpeg**
 
 ## What is Jibri
 
